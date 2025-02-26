@@ -3,14 +3,14 @@ const path = require('path');
 
 function createWindow() {
   const mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    width: 1400,
+    height: 800,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js')
     }
   });
 
-  mainWindow.loadFile('src/html/index.html');
+  mainWindow.loadFile('src/login/login.html');
 }
 
 app.whenReady().then(createWindow);
