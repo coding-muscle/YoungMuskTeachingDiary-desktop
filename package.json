@@ -1,0 +1,19 @@
+{
+  "name": "youngmuskteachingdiary-desktop",
+  "version": "1.0.0",
+  "description": "graduation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-muscle/YoungMuskTeachingDiary-desktop.git"
+  },
+  "author": "Wanli Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-muscle/YoungMuskTeachingDiary-desktop/issues"
+  },
+  "homepage": "https://github.com/coding-muscle/YoungMuskTeachingDiary-desktop#readme"
+}
